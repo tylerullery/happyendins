@@ -6,7 +6,4 @@
 /data/Map005.json https://raw.githubusercontent.com/tylerullery/happyendins/master/Map005.json
 /data/Map006.json https://raw.githubusercontent.com/tylerullery/happyendins/master/Map006.json
 /data/Map007.json https://raw.githubusercontent.com/tylerullery/happyendins/master/Map007.json
-/js/plugins/GameJolt.js https://raw.githubusercontent.com/tylerullery/happyendins/master/GameJolt.js
-/js/plugins/GameJoltLogin.html https://raw.githubusercontent.com/tylerullery/happyendins/master/GameJoltLogin.html
-/js/plugins/GameJoltlogo.svg https://raw.githubusercontent.com/tylerullery/happyendins/master/GameJoltlogo.svg
 <End of Version>
