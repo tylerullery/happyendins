@@ -10,4 +10,5 @@
 
 <Version: 1.02>
 /data/Map003.json https://raw.githubusercontent.com/tylerullery/happyendins/master/Map003.json
+/data/CommonEvents.json https://raw.githubusercontent.com/tylerullery/happyendins/master/CommonEvents.json
 <End of Version>
