@@ -23,3 +23,15 @@
 /data/Actors.json https://raw.githubusercontent.com/tylerullery/happyendins/master/Actors.json
 /data/Tilesets.js https://raw.githubusercontent.com/tylerullery/happyendins/master/Tilesets.json
 <End of Version>
+
+<Version 1.04>
+/data/Map003.json https://raw.githubusercontent.com/tylerullery/happyendins/master/Map003.json
+/data/Map008.json https://raw.githubusercontent.com/tylerullery/happyendins/master/Map008.json
+/data/Map010.json https://raw.githubusercontent.com/tylerullery/happyendins/master/Map010.json
+/data/Actors.json https://raw.githubusercontent.com/tylerullery/happyendins/master/Actors.json
+/data/MapInfos.json https://raw.githubusercontent.com/tylerullery/happyendins/master/MapInfos.json
+/img/faces/EvilQueen.png https://raw.githubusercontent.com/tylerullery/happyendins/master/EvilQueen.png
+/img/faces/MagicMirror.png https://raw.githubusercontent.com/tylerullery/happyendins/master/MagicMirror.png
+/img/characters/MagicMirror.png https://raw.githubusercontent.com/tylerullery/happyendins/master/MagicMirrorC.png
+/img/characters/EvilQueen.png https://raw.githubusercontent.com/tylerullery/happyendins/master/EvilQueenc.png
+<End of Version>
