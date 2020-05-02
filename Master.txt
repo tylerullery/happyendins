@@ -15,3 +15,7 @@
 /js/plugins/Community_Basic.js https://raw.githubusercontent.com/tylerullery/happyendins/master/Community_Basic.js
 /js/plugins.js https://raw.githubusercontent.com/tylerullery/happyendins/master/plugins.js
 <End of Version>
+
+<Version 1.03>
+/js/plugins.js https://raw.githubusercontent.com/tylerullery/happyendins/master/plugins.js
+<End of Version>
