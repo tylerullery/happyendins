@@ -1,4 +1,3 @@
-
 <Version: 1.01>
 /data/Map002.json https://raw.githubusercontent.com/tylerullery/happyendins/master/Map002.json
 /data/Map003.json https://raw.githubusercontent.com/tylerullery/happyendins/master/Map003.json
