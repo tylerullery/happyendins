@@ -11,4 +11,5 @@
 <Version: 1.02>
 /data/Map003.json https://raw.githubusercontent.com/tylerullery/happyendins/master/Map003.json
 /data/CommonEvents.json https://raw.githubusercontent.com/tylerullery/happyendins/master/CommonEvents.json
+/js/plugins/Community_Basic.js https://raw.githubusercontent.com/tylerullery/happyendins/master/Community_Basic.js
 <End of Version>
