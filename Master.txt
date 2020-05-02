@@ -6,7 +6,6 @@
 /data/Map006.json https://raw.githubusercontent.com/tylerullery/happyendins/master/Map006.json
 /data/Map007.json https://raw.githubusercontent.com/tylerullery/happyendins/master/Map007.json
 <End of Version>
-
 <Version: 1.02>
 /data/Map003.json https://raw.githubusercontent.com/tylerullery/happyendins/master/Map003.json
 /data/CommonEvents.json https://raw.githubusercontent.com/tylerullery/happyendins/master/CommonEvents.json
@@ -14,7 +13,6 @@
 /js/plugins/Community_Basic.js https://raw.githubusercontent.com/tylerullery/happyendins/master/Community_Basic.js
 /js/plugins.js https://raw.githubusercontent.com/tylerullery/happyendins/master/plugins.js
 <End of Version>
-
 <Version 1.03>
 /js/plugins.js https://raw.githubusercontent.com/tylerullery/happyendins/master/plugins.js
 /data/Map003.json https://raw.githubusercontent.com/tylerullery/happyendins/master/Map003.json
@@ -22,7 +20,6 @@
 /data/Actors.json https://raw.githubusercontent.com/tylerullery/happyendins/master/Actors.json
 /data/Tilesets.js https://raw.githubusercontent.com/tylerullery/happyendins/master/Tilesets.json
 <End of Version>
-
 <Version 1.04>
 /data/Map003.json https://raw.githubusercontent.com/tylerullery/happyendins/master/Map003.json
 /data/Map008.json https://raw.githubusercontent.com/tylerullery/happyendins/master/Map008.json
