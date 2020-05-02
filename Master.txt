@@ -18,5 +18,6 @@
 
 <Version 1.03>
 /js/plugins.js https://raw.githubusercontent.com/tylerullery/happyendins/master/plugins.js
+/data/Map003.json https://raw.githubusercontent.com/tylerullery/happyendins/master/Map003.json
 /data/Map007.json https://raw.githubusercontent.com/tylerullery/happyendins/master/Map007.json
 <End of Version>
